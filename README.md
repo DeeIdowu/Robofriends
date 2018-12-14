@@ -1,6 +1,6 @@
 
 Welcome to my Robofriends web application, a simply demonstration of ReactJS competence, via usage of the likes
-of npm packages such as tachyons and installation of fonts for styling as well as use of components, states and props.
+of npm packages such as tachyons, api: robohash for the card and images of the robots also installation of fonts for styling. This project displays the power of ReactJS via use of components, states and props.
 
 Below is a screenshot of the web app, take a gander:
 ![screen shot 2018-12-13 at 1 38 25 pm](https://user-images.githubusercontent.com/38046425/49959745-7391df00-fedc-11e8-90c1-8fa07c6c72bf.png)
